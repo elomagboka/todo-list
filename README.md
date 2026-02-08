@@ -1,1 +1,8 @@
-Todo List Project
+# Todo List Project
+
+A simple app to manage your daily tasks.
+It uses HTML5 and CSS
+
+## Features
+
+- List of daily tasks
